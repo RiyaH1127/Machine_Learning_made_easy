@@ -4,7 +4,5 @@ A collection of machine learning algorithms, data analysis, and exploratory data
 
 
 
-
-
-- RIYA HAJARE
-- IT Student
+Author :
+RIYA HAJARE, IT Student.
