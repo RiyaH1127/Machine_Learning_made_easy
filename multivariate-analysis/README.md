@@ -17,19 +17,23 @@ Unlike univariate analysis (single variable), multivariate analysis helps in ide
 
 ---
 
-## 🛠️ Techniques Used
+🛠️ Techniques & Visualizations Used
+🔹 1. Scatter Plot (Numerical vs Numerical)
+Used to analyze relationship between:
+total_bill vs tip
+Helps understand:
+How tipping behavior changes with bill amount
 
-* **Correlation Matrix / Heatmap**
-* **Pair Plot (Scatter Matrix)**
-* **Multivariate Scatter Plots**
-* **Feature Interaction Analysis**
-* **Covariance Analysis**
+👉 Advanced usage:
 
+hue → gender (male/female)
+style → smoker/non-smoker
+size → group size
 ---
 
 ## 📂 Files Included
 
-* `your_notebook.ipynb` → Contains complete multivariate analysis
+* `multivariate.ipynb` → Contains complete multivariate analysis
 * `train.csv` → Dataset used for analysis
 
 ---
@@ -66,7 +70,5 @@ Unlike univariate analysis (single variable), multivariate analysis helps in ide
 
 Multivariate analysis provides deeper insights by considering multiple variables together, which is essential for building accurate machine learning models.
 
----
 
-✨ *Part of Machine Learning Made Easy Project*
 
